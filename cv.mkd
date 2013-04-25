@@ -1,19 +1,55 @@
-Vaga
-====
+RAFAEL RIBEIRO FARIAS DA COSTA
+ 
+Sexo: Masculino       Nacionalidade: Brasileiro 
+Data de Nascimento: 31/08/87        Estado Civil: Solteiro
+Rua da Pedreira 161, apto 101 – Cascadura  - Rio de Janeiro - RJ
+Telefones: (021) 3979-1456 / (021) 8553-8284       E-mail:  rafael.ribeirorj@gmail.com
 
-[Preencha aqui a vaga que você pretende]
+Formação
+ 
+     2º Grau
+     Curso: Ensino Médio
+     Instituição: Centro Educacional Santa Mônica
+     Ano de Início: 2002 - Ano de Término: 2004
+ 
+     Graduação - Trancada
+     Curso: Análise de Sistemas Informatizados
+     Instituição: Instituto Superior de Tecnologia em Ciência da Computação do Rio de  Janeiro
+     Ano de Início: 08/2006
+ 
+     Graduação
+     Curso: Sistemas para internet
+     Instituição: Estácio de Sá
+     Ano de início: 2011.2 – Previsão de Formação: 2013.2
+ 
+Experiência
+ 
+    HJM
+    - Programador Júnior
+    Atividades: Desenvolvimento de sistemas web.
+    Linguagem: Ruby on Rails e Flex. Banco de dados: Oracle.
+    Início: 03/2012  até 01/2013
+ 
+     MM Idiomas
+      - Estagiário
+     Atividades: Desenvolvimento de um site interno (Curso de idiomas da Embratel).
+     Linguagem: PHP e  CMS Moodle.    
+     Período: 09/2012 até 02/2013
+      
+ CURSOS:
+ 
+     COTI INFORMÁTICA
+     - Oracle
+     Carga horária: 64h
+     Conclusão: 08/2012
+ 
+     CAELUM
+     Formação Java (FJ-11, FJ-21e FJ 16)
+     Carga horária: 100h
+     Conclusão: 02/2012
+ 
+     Wizard
+     - Inglês (Incompleto)
+     Período: 1 ano e meio
+ 
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
-
-CV
-==
-
-[Preencha aqui o seu cv]
-
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
